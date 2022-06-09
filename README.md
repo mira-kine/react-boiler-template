@@ -8,3 +8,4 @@
 4. Create simple html file
 5. install expressJS
 6. setup web server
+7. install babel, add .babelrc
