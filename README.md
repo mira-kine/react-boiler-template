@@ -7,3 +7,4 @@
 3. Set up npm i
 4. Create simple html file
 5. install expressJS
+6. setup web server
